@@ -1,0 +1,20 @@
+# Body Particle System
+
+## Overview
+The **Body Particle System** is an interactive visualization tool that integrates body pose detection with dynamic particle effects. Using Mediapipe for body pose detection, this system overlays particle effects on body parts in real-time, providing a visually engaging experience for creative coding, installations, or educational purposes.
+
+---
+
+## Features
+- **Real-Time Pose Detection**: Leverages Mediapipe to detect body landmarks.
+- **Dynamic Particle Effects**: Generates particles that react to body movements.
+
+
+---
+
+## Installation
+
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/mohd6288/body-particle-system.git
+   cd body-particle-system
