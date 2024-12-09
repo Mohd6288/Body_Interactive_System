@@ -6,3 +6,4 @@ flask
 flask-socketio
 python-osc
 pillow
+opencv-python
