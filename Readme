@@ -18,3 +18,14 @@ The **Body Particle System** is an interactive visualization tool that integrate
    ```bash
    git clone https://github.com/mohd6288/body-particle-system.git
    cd body-particle-system
+
+2. create a python vertical environment
+
+python -m venv myenv
+
+.\venv_name\Scripts\activate
+
+
+3. run 
+pip install -r requirements.txt
+
