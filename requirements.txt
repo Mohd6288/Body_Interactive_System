@@ -1,0 +1,8 @@
+numpy
+matplotlib
+mediapipe
+pygame
+flask
+flask-socketio
+python-osc
+pillow
