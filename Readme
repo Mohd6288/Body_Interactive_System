@@ -26,3 +26,5 @@ activete the env
 source .venv 
 
 pip install -r reuirment.txt
+
+python main.py
